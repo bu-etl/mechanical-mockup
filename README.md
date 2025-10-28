@@ -5,5 +5,7 @@ The repository will house CAD mock-ups of various components, including the Read
 
 ## Visuals
 
+![MUX64](images/MUX64.png)<br>
+
 ## Installation
 Since I'm using a MacOS to upload and share the models, that is typically the ideal operating system to use. Import the model to Onshape to view.
