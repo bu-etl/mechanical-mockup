@@ -15,7 +15,7 @@ VTRX+<br>
 ![VTRX+](images/VTRX+.png)<br>
 
 big capacitors parts<br>
-![big_capacitors_parts](images/big_capacitor_parts.png)<br>
+![big capacitors parts](images/big_capacitors_parts.png)<br>
 
 ## Installation
 Since I'm using a MacOS to upload and share the models, that is typically the ideal operating system to use. Import the model to Onshape to view.
